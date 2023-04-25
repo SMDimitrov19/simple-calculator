@@ -13,7 +13,6 @@ public class Calculator extends Application {
 
     TextField textField;
 
-    @Override
     public void start(Stage stage) throws Exception {
         GridPane gridPane = new GridPane();
         gridPane.setAlignment(Pos.CENTER);
